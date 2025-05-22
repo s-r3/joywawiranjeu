@@ -8,6 +8,8 @@ It mainly involved:
 2. Setting the date format  using the formular:IFerror(Text value(i2,DD/MM/YY),"") AFTER creting helper 'column J'
 3. converting the data into a table for easy analysis in the pivot  table
 
+this imge gives an overview of before data set ![image alt](https://github.com/s-r3/joywawiranjeu/blob/d9acc539775998955291eb97e650902e186d1c2b/health_patient_dataset_.xls)
+
 
 # [project2:Data querrying with SQL]
 ## Using MySQL to analyse Health_Patient data set
