@@ -21,8 +21,11 @@ I used various functions such as:
 4. group by-Used in aggregate selection  functions such as count to mean columns
 5. having- Mainly used after group by
 6. order by - DESC AND ASC
+As you can see examples below
+![image alt]((https://github.com/s-r3/joywawiranjeu/blob/c205969fc2129afe94f502fa61e53a9d93876a0a/SQL%20FUNCTION%203.png)
 
-   [](image/SQL FUNCTION 1.png)
+
+
 
 
 
