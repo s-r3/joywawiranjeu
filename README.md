@@ -22,7 +22,7 @@ I used various functions such as:
 5. having- Mainly used after group by
 6. order by - DESC AND ASC
 
-7. ![](image/SQL FUNCTION 1.png)
+   [](image/SQL FUNCTION 1.png)
 
 
 
