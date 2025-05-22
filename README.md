@@ -1,4 +1,4 @@
-# [Project 1:Data cleaning of Patient health records Recorsds project]{https://s-r3.github.io/joywawiranjeu/}
+# [Project 1:Data cleaning of Patient health records Recorsds project]
 ##Data Cleaning With Excel
 
 This is a project i did as a begginner in data analysis
