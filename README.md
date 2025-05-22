@@ -22,7 +22,7 @@ I used various functions such as:
 5. having- Mainly used after group by
 6. order by - DESC AND ASC
 As you can see examples below
-![image alt]((https://github.com/s-r3/joywawiranjeu/blob/596dcc3deed43a499f6931272e9c84584fb95f4f/SQL%20FUNCTION%206..png)
+![image alt](https://github.com/s-r3/joywawiranjeu/blob/596dcc3deed43a499f6931272e9c84584fb95f4f/SQL%20FUNCTION%206..png)
 
 
 
