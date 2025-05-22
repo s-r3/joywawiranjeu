@@ -20,7 +20,9 @@ I used various functions such as:
 3. Where-conditional function
 4. group by-Used in aggregate selection  functions such as count to mean columns
 5. having- Mainly used after group by
-6. order by - DESC AND ASC 
+6. order by - DESC AND ASC
+
+7. ![](image/SQL FUNCTION 1.png)
 
 
 
