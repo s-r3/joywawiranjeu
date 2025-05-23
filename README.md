@@ -30,11 +30,24 @@ I used various  data quering language functions and Data manipulation functions 
 As you can see examples below
 ![image alt](https://github.com/s-r3/joywawiranjeu/blob/596dcc3deed43a499f6931272e9c84584fb95f4f/SQL%20FUNCTION%206..png)
 
-[example 2]: Using aggregate functions
+[example 2: Using aggregate functions]
 ![image alt](https://github.com/s-r3/joywawiranjeu/blob/10fdbbe776dfcb50632228a7bf7deea388ab804e/SQL%20FUNCTION%209.jpg)
 
 [Example 3: Aggregate functionand group by]
-![image alr](
+![image alr](https://github.com/s-r3/joywawiranjeu/blob/1dac5e2a908a5976227b0faafe1162c71666eb3d/SQL%20FUNCTION%204.jpg)
+
+# [Project 3:Using Pivot Tables To Analyse the cost of  Treatment as per gender]
+## Used cleaned Health _Patient data set
+
+The  project gave me hands on experience in using pivot tables for various formulaes
+Made it easier to use aggregate functions
+Easy t0 remember formulars and apply  them directlty
+
+The image shows an example of a case used
+![image alt](
+
+
+
 
 
 
