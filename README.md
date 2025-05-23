@@ -33,6 +33,9 @@ As you can see examples below
 [example 2]: Using aggregate functions
 ![image alt](https://github.com/s-r3/joywawiranjeu/blob/10fdbbe776dfcb50632228a7bf7deea388ab804e/SQL%20FUNCTION%209.jpg)
 
+[Example 3: Aggregate functionand group by]
+![image alr](
+
 
 
 
