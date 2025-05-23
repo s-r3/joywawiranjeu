@@ -11,7 +11,8 @@ It mainly involved:
 this imge gives an overview of before data set cleaning
 ![image alt](https://github.com/s-r3/joywawiranjeu/blob/c58dda60b91b86fe8ff1f6ffb0ce4c1be6819624/before%20cleaning%20data%20set.jpg)
 
-
+ The rfollowing image is after cleaning the data set
+ ![image alt](https://github.com/s-r3/joywawiranjeu/blob/ca8bc5a8d43ea59171fd7aa57307ca99863d4e2f/after%20cleaning%20%20health_Patient%20dataset.jpg)
 
 
 # [project2:Data querrying with SQL]
