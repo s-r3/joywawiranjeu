@@ -8,7 +8,10 @@ It mainly involved:
 2. Setting the date format  using the formular:IFerror(Text value(i2,DD/MM/YY),"") AFTER creting helper 'column J'
 3. converting the data into a table for easy analysis in the pivot  table
 
-this imge gives an overview of before data set ![image alt](https://github.com/s-r3/joywawiranjeu/blob/d9acc539775998955291eb97e650902e186d1c2b/health_patient_dataset_.xls)
+this imge gives an overview of before data set cleaning
+![image alt](https://github.com/s-r3/joywawiranjeu/blob/c58dda60b91b86fe8ff1f6ffb0ce4c1be6819624/before%20cleaning%20data%20set.jpg)
+
+
 
 
 # [project2:Data querrying with SQL]
