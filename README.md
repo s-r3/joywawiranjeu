@@ -50,8 +50,10 @@ The image shows an example of a case used
 
 # [Project 3:Using Powerbi to vsualize data and  Power Query to teansform Data}
 ## Calculated count of Treatment Cost of each treatment and measured  Sum against Diagnosis 
-This project gave me hands on experience on how to use power query to transform data from afolder as well as joining the
+This project gave me hands on experience on how to use power query to transform data from a folder as well as joining the data
+
 Power bi offered various charts according to the data i had and also learnt how each is used
+
 Gained hands on experience on colour choice for proper visualization
 
 the following image shows an example
