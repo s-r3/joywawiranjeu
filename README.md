@@ -28,23 +28,38 @@ I used various  data quering language functions and Data manipulation functions 
 5. having- Mainly used after group by
 6. order by - DESC AND ASC
 As you can see examples below
+[Example 1: aggregate, whaere , groupby, having]
 ![image alt](https://github.com/s-r3/joywawiranjeu/blob/596dcc3deed43a499f6931272e9c84584fb95f4f/SQL%20FUNCTION%206..png)
 
 [example 2: Using aggregate functions]
 ![image alt](https://github.com/s-r3/joywawiranjeu/blob/10fdbbe776dfcb50632228a7bf7deea388ab804e/SQL%20FUNCTION%209.jpg)
 
-[Example 3: Aggregate functionand group by]
+[Example 3: Aggregate function and group by]
 ![image alr](https://github.com/s-r3/joywawiranjeu/blob/1dac5e2a908a5976227b0faafe1162c71666eb3d/SQL%20FUNCTION%204.jpg)
 
 # [Project 3:Using Pivot Tables To Analyse the cost of  Treatment as per gender]
 ## Used cleaned Health _Patient data set
 
 The  project gave me hands on experience in using pivot tables for various formulaes
-Made it easier to use aggregate functions
-Easy t0 remember formulars and apply  them directlty
+- Made it easier to use with aggregate functions sch as total sum and count
+- Easy t0 remember formulars and apply  them directlty
+- Easy to visualize using pivot tables
 
 The image shows an example of a case used
-![image alt](
+![image alt](https://github.com/s-r3/joywawiranjeu/blob/66b1406f476e3658bde38a7bf9cfbb48bc9914b0/PIVOT%20and%20Pivot%20chats.jpg)
+
+# [Project 3:Using Powerbi to vsualize data and  Power Query to teansform Data}
+## Calculated sum of the cost of each treatment and measured against gender and the treatment itself
+This project gave me hands on experience on how to use power query to transform data from afolder as well as joining them
+I calculated the sum of the cost  of treatment
+Power bi offered various charts according to the data i had and also learnt how each is used
+
+the following image shows an example
+
+![imagw alt](
+
+
+
 
 
 
