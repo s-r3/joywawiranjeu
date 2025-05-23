@@ -19,16 +19,19 @@ this imge gives an overview of before data set cleaning
 ## Using MySQL to analyse Health_Patient data set
 
 In this project , I loaded the resulting clean data to my Sql in a database named 'SPIKY'
-I used various functions such as:
+I used various  data quering language functions and Data manipulation functions such as:
 
 1. Select- begginer of each query
 2. From
 3. Where-conditional function
-4. group by-Used in aggregate selection  functions such as count to mean columns
+4. group by-Used after aggregate  functions such as count to mean columns
 5. having- Mainly used after group by
 6. order by - DESC AND ASC
 As you can see examples below
 ![image alt](https://github.com/s-r3/joywawiranjeu/blob/596dcc3deed43a499f6931272e9c84584fb95f4f/SQL%20FUNCTION%206..png)
+
+[example 2]:
+![image alt](
 
 
 
