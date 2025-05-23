@@ -49,14 +49,14 @@ The image shows an example of a case used
 ![image alt](https://github.com/s-r3/joywawiranjeu/blob/66b1406f476e3658bde38a7bf9cfbb48bc9914b0/PIVOT%20and%20Pivot%20chats.jpg)
 
 # [Project 3:Using Powerbi to vsualize data and  Power Query to teansform Data}
-## Calculated sum of the cost of each treatment and measured against gender and the treatment itself
-This project gave me hands on experience on how to use power query to transform data from afolder as well as joining them
-I calculated the sum of the cost  of treatment
+## Calculated count of Treatment Cost of each treatment and measured  Sum against Diagnosis 
+This project gave me hands on experience on how to use power query to transform data from afolder as well as joining the
 Power bi offered various charts according to the data i had and also learnt how each is used
+Gained hands on experience on colour choice for proper visualization
 
 the following image shows an example
 
-![imagw alt](
+![imagw alt](https://github.com/s-r3/joywawiranjeu/blob/c066b8083e31d23de61f9c3f46c3e3bb0c48e26a/Power%20bi%20Visualization.jpg)
 
 
 
